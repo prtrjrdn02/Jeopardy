@@ -1,0 +1,17 @@
+{
+  "name": "jeopardy",
+  "version": "1.0.0",
+  "description": "This is a jeopardy game. It will allow players to pick from a table of categories with 5 options in each category ranging from 100 points to 500 points. Each time then click on a box they will be asked a question and then they will answer. Based on how they answer they willl either get the points added to their overal points or wont.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o"
+  },
+  "keywords": [],
+  "author": "Porter Jordan",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
